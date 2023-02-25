@@ -2,6 +2,10 @@
 [![Build Status](https://img.shields.io/cirrus/github/Macacoazul01/month_picker_dialog_2)](https://cirrus-ci.com/github/Macacoazul01/month_picker_dialog_2/master)
 [![pub package](https://img.shields.io/pub/v/month_picker_dialog_2.svg)](https://pub.dev/packages/month_picker_dialog_2)
 
+## I'm now updating the original package, please come back to it:
+[month_picker_dialog](https://github.com/hmkrivoj/month_picker_dialog)
+
+
 Internationalized material style dialog for picking a single month from an infinite list of years.
 This package makes use of the intl package and flutter's i18n abilities to provide labels in all languages known to flutter.
 

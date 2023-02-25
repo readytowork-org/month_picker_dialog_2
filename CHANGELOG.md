@@ -1,3 +1,6 @@
+## 0.6.2+1
+- Deprecated this package in favor of the original [month_picker_dialog](https://github.com/hmkrivoj/month_picker_dialog) 
+
 ## 0.6.2
 - updated to flutter 2.19.2 and fixed deprecations
 
