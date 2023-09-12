@@ -72,7 +72,7 @@ class MonthButton extends StatelessWidget {
                 .color
             : date.month == DateTime.now().month &&
                     date.year == DateTime.now().year
-                ? _backgroundColor
+                ? Color(0xFF000000)
                 : unselectedMonthTextColor ?? null, backgroundColor:
             date.month == selectedDate.month && date.year == selectedDate.year
                 ? _backgroundColor
